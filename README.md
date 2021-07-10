@@ -1,4 +1,4 @@
-# [manifold finance discussion forums](https://github.com/manifoldfinance/boards/discussions)
+# [manifold finance community resources](https://github.com/manifoldfinance/boards/discussions)
 
 [![slack - manifold finance](https://img.shields.io/badge/slack-manifold_finance-purple?logo=slack)](https://manifoldx.page.link/slack)
 [![telegram - manifold finance](https://img.shields.io/badge/telegram-manifold_finance-blue?logo=telegram&logoColor=white)](https://t.me/manifoldfinance) [![twitter - @foldfinance](https://img.shields.io/static/v1?label=twitter&message=%40foldfinance&color=blue&logo=twitter&logoColor=white)](https://twitter.com/foldfinance)
